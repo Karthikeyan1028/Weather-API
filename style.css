@@ -1,0 +1,36 @@
+body{
+    background-color: #9db4db;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.container {
+    background-color: rgba(240, 238, 235, 0.952);
+}
+h6{
+    text-align: center;
+}
+#weather-form{
+    text-align: center;
+}
+input{
+    
+}
+button{
+    font-weight: bold;
+    border-radius: 50px;
+    background-color: rgb(38, 151, 226);
+    box-shadow: 20px 30px 30px lightgray;
+    box-shadow: ;
+    color:aliceblue;
+
+}
+
+button:hover{
+    background-color: hsl(204, 76%, 60%);
+}
+.info{
+    display: flex;
+    justify-content: center;
+}
+.card-body{
+    background-color: aquamarine;
+}
